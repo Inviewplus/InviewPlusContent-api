@@ -1,6 +1,0 @@
-@InviewPlusContent.API_HostAddress = http://localhost:5280
-
-GET {{InviewPlusContent.API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

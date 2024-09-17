@@ -14,5 +14,8 @@
     <ItemGroup>
       <Folder Include="Controllers\" />
     </ItemGroup>
+    <ItemGroup>
+      <ProjectReference Include="..\InviewPlusContent.Infrastructure\InviewPlusContent.Infrastructure.csproj" />
+    </ItemGroup>
 
 </Project>

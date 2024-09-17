@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InviewPlusContent.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e142474b87435f16bbfeec392a66d08207cb4755")]
 [assembly: System.Reflection.AssemblyProductAttribute("InviewPlusContent.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InviewPlusContent.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
